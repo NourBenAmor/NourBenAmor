@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nour Ben Amor</h1>
+
 <h3 align="center">
-  🎓 I'm a Software Engineer, recently graduated from <strong>ESPRIT – Esprit School of Engineering and Technology</strong>. I have a strong passion for building scalable and user-centric applications. 🛠️ My academic journey and internships helped me develop solid skills in <strong>Full-Stack Web Development</strong>, <strong>Mobile Development</strong>, and <strong>Enterprise Software Solutions</strong>. 🌱 I'm currently exploring advanced back-end architectures, CI/CD automation, and cloud-native application development.
+  🎓 I'm a Software Engineer, recently graduated from Esprit School of Engineering and Technology. I have a strong passion for building scalable and user-centric applications. 🛠️ My academic journey and internships helped me develop solid skills in Full-Stack Web Development, Mobile Development, and Enterprise Software Solutions. 🌱 I'm currently exploring advanced back-end architectures, CI/CD automation, and cloud-native application development.
 </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add social media or contact links here if you have any -->
-</p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -77,9 +74,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
+</a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
   </a>
